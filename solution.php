@@ -10,4 +10,5 @@
     else
         $result = "false";
 
+    echo "\"My name is ".$name.", I am ".$age." years old, my height is ".$height." 'cm', it is ".$result." that I am a student, and my favorite \\programming languages\\ are ".$prog_languages[0]." and ".$prog_languages[1]." and ".$prog_languages[2].".\"";
 ?>
